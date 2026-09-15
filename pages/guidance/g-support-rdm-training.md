@@ -38,12 +38,12 @@ resources:
   - Training SPLASH
     url: https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/index
     description: Connecting trainers to practical guidance, tools and best practices for high-quality training.
-- FAIR training handbook
+  - FAIR training handbook
     url: https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook
     description: Guidance on how you can FAIRify your training material.
-- FAIR Lesson Plan Handbook
+  - FAIR Lesson Plan Handbook
     url: https://plans.fairdata.education
-    description: Lesson plans to integrate FAIR principles into your curriculum, with resources and pathways for designing effective training programs.
+    description: Lesson plans for teaching FAIR principles, with resources and pathways for designing effective training programs.
     
 ---
 ## What to do
