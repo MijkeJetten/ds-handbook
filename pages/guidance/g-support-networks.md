@@ -84,13 +84,13 @@ Choose networks that meet regularly and produce something, such as working group
 If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part.
 
 ## Turn participation into impact
-Networks create the most value when you actively engage with the community and apply what you learn in practice.
+Networks give you the most when you take part actively and use what you learn.
 
-### Share experiences and expertise
-Bring practical examples, tools, challenges and lessons learned from your work into discussions. Participate in meetings, contribute to working groups and support shared outputs. Both successful approaches and difficult experiences can help others avoid repeating the same work.
+### Share your experience
+Bring examples, tools and problems from your own work into discussions. What went wrong is as useful as what worked: it helps others avoid the same mistakes.
+
+### Take initiative
+Go beyond attending meetings. Join a working group, help organise a session, lead a small project or co-author a shared output. This doesn't have to take much time, but do it regularly, so people in the network know you and your work.
 
 ### Bring outcomes back to your organisation
-Use network outputs locally, whether they are recommendations, tools, training materials or new approaches. Share relevant developments with colleagues through team meetings, internal channels or brief updates, and share local experiences back with the community. This two-way exchange strengthens both your organisation and the network.
-
-### Help communities grow
-If you participate in a grassroots or informal network, support simple practices such as agendas, rotating chairs and shared notes. Small improvements in coordination can help a community remain active, useful and sustainable over time.
+Use what the network produces, such as recommendations, tools or training materials, in your own organisation. Share relevant news with colleagues in a team meeting or a short update. Then tell the network what you did with it and how it worked. Making these results visible also shows your management why your participation matters.
