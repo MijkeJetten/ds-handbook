@@ -64,21 +64,24 @@ Data stewards play a central role in enabling FAIR research, yet many work as th
 The sections below focus on choosing relevant networks, participating effectively and turning network engagement into practical benefits. You can read them in any order.
 
 ## Plan and support your network participation
-Building a network takes time, but it becomes much easier when participation is recognised as part of your role.
+Building a network takes time. It gets easier when your organisation sees it as part of your job.
 
 ### Secure organisational support
-Explain how network participation improves service quality, supports professional development and helps your organisation stay aligned with developments in research data management. Dedicated time, support for travel or community contributions, and opportunities to share outcomes internally can make participation more sustainable and effective. Short reports or updates to your team or management help to keep that support in place.
+Explain to your manager what network participation brings: better advice for researchers, and early news about standards and tools your organisation will need to follow. Ask for dedicated time and a travel budget. Short updates to your team or management after a meeting help to keep that support in place. Also ask whether network contributions, such as leading a working group, can count in your annual review.
 
 ### Engage at different levels
-Local, national and international networks complement each other, and none replaces the others. Aim for a balance that fits your role.
-  - Local: Connect you to institutional expertise, services and the researchers you support, and help you tailor guidance to local workflows.
-  - National: Link data stewardship to national infrastructures, policy makers and funders, with access to training, shared services and policy discussions.
-  - International: Help you follow emerging standards, tools and practices. They are often organised through ELIXIR and the Research Data Alliance (RDA), and many offer thematic or domain-specific groups.
+Local, national and international networks complement each other, and none replaces the others.
+- Local networks connect you to colleagues and services in your own organisation, and to the researchers you support.
+- National networks link you to national infrastructures, funders and policy discussions.
+- International networks help you follow new standards and tools. Many are organised through ELIXIR, the European Open Science Cloud (EOSC) and the Research Data Alliance (RDA), often with groups for a specific domain.
 
-### Choose and balance your networks
-Map your engagement. Note where you are already active and where there are gaps. You may be well connected locally but isolated nationally, or active internationally without much support from your organisation. Some funding schemes cover international but not national networking, so check what yours can support. International contacts do not replace national ones.
-Prioritise active communities. Choose networks with regular activities, working groups, shared outputs or coordination roles. They let you learn from others while sharing expertise and building professional connections.
-Working alone or in a small institute? If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part.
+Map where you are already active and where there are gaps. You may be well connected locally but isolated nationally, or active internationally without much support from your organisation. Some funding schemes cover international but not national networking, so check what yours can support.
+
+### Prioritise active communities
+Choose networks that meet regularly and produce something, such as working groups or shared guidelines. There you learn from others and build contacts at the same time.
+
+### Start nationally if you work alone
+If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part.
 
 ## Turn participation into impact
 Networks create the most value when you actively engage with the community and apply what you learn in practice.
