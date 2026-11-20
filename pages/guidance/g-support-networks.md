@@ -11,7 +11,7 @@ page_id: g-support-networks
 # ---------------------------------------------------------------------------
 
 # Tab 1: At a glance
-description: Practical guidance on using expert networks to build expertise, share knowledge, and improve RDM support.
+description: How to take part in expert networks and help them grow, with support from your organisation.
 last_update: 2026-11-20  
 topics:                            
   - expert networks
@@ -26,10 +26,10 @@ skills:
   - working in teams                           # http://data.europa.eu/esco/skill/e4da156d-a6c4-4b29-935b-eff9c9553cf1
 
 # Tab 3: Takeaways
-takeaways:                        
-  - Combine local, national and international networks to access expertise, infrastructure and emerging practices.
-  - Contribute actively by sharing experiences, joining working groups and supporting community outputs.
-  - Bring network outcomes back to your organisation to improve RDM practice and secure continued support.
+takeaways:
+  - Ask your organisation for time and budget, and combine local, national and international networks.
+  - Take an active role, and bring what you learn back to your organisation.
+  - Help informal networks last with light structure, such as rotating chairs and shared notes.
 
 # ---------------------------------------------------------------------------
 # Related pages
@@ -52,16 +52,32 @@ related_pages:
 # Resources
 # ---------------------------------------------------------------------------
 resources:
-  - name: Research Data Management Community at ELIXIR
+  - name: ELIXIR Research Data Management Community
     url: https://elixir-europe.org/communities/research-data-management
-    description: Connecting RDM experts to share knowledge and best practices, boosting efficiency and confidence in delivering harmonised RDM services to life science researchers.
+    description: European community where RDM experts from ELIXIR Nodes share practices and work on joint outputs.
+    category: external_resource
+  - name: Research Data Alliance (RDA)
+    url: https://www.rd-alliance.org/
+    description: International organisation with working and interest groups on many RDM topics, open to anyone.
+    category: external_resource
+  - name: Community building via the DTL Data Stewards Interest Group (DSIG)
+    url: https://content.iospress.com/articles/fair-connect/fc230503
+    description: How a national data steward network in the Netherlands is organised, with rotating hosts and chairs.
+    category: external_resource
+  - name: The Community Canvas
+    url: https://community-canvas.org/
+    description: Free framework to help a community agree on its purpose, how it runs and what members get from it.
+    category: external_resource
+  - name: CSCCE Community Participation Model
+    url: https://doi.org/10.5281/zenodo.3997802
+    description: Model that describes the different ways members take part in a community.
     category: external_resource
 
 ---
 
-Data stewards play a central role in enabling FAIR research, yet many work as the only person with research data management expertise in their team or organisation. Expert networks help you exchange knowledge, avoid duplicating effort and keep up with developments in standards, tools and good practices. They also connect you to local, national and international communities shaping research data management, FAIR and Open Science.
+Data stewards play a central role in enabling FAIR research, yet many work as the only person with research data management (RDM) expertise in their team or organisation. Expert networks give you colleagues to ask, so you don't have to solve every problem alone or rebuild what others have already made. They also keep you up to date on new standards and tools.
 
-The sections below focus on choosing relevant networks, participating effectively and turning network engagement into practical benefits. You can read them in any order.
+You can read the sections below in any order. If you are new to networking, start with the first section.
 
 ## Plan and support your network participation
 Building a network takes time. It gets easier when your organisation sees it as part of your job.
