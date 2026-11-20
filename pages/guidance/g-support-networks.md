@@ -81,7 +81,7 @@ Map where you are already active and where there are gaps. You may be well conne
 Choose networks that meet regularly and produce something, such as working groups or shared guidelines. There you learn from others and build contacts at the same time.
 
 ### Start nationally if you work alone
-If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part.
+If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part. In Czechia, for example, data stewards can join the EOSC CZ Discord channel, and the [Data Stewards Map](https://openscience.lib.cas.cz/en/uncategorized/project-data-stewards-map) helps researchers find them.
 
 ## Turn participation into impact
 Networks give you the most when you take part actively and use what you learn.
@@ -94,3 +94,15 @@ Go beyond attending meetings. Join a working group, help organise a session, lea
 
 ### Bring outcomes back to your organisation
 Use what the network produces, such as recommendations, tools or training materials, in your own organisation. Share relevant news with colleagues in a team meeting or a short update. Then tell the network what you did with it and how it worked. Making these results visible also shows your management why your participation matters.
+
+## Help networks grow
+Many networks start informally. With a little structure, they last longer and become more useful.
+
+### Start small
+If there is no network near you, start one. A monthly breakfast with data stewards from nearby departments, or a shared chat channel, is enough to begin. ELIXIR-UK, for example, runs an informal monthly [UK RDM Club](https://elixiruknode.org/?p=23704).
+
+### Add light structure
+In an informal network, suggest simple habits: an agenda for each meeting, a chair that rotates, and shared notes. This spreads the work and keeps the network going when one person leaves. In the [Data Steward Interest Group (DSIG)](https://content.iospress.com/articles/fair-connect/fc230503) in the Netherlands, a different organisation organises and chairs each meeting.
+
+### Use a framework
+A framework helps a network agree on what it is for and who does what. The [Community Canvas](https://community-canvas.org/) and the [CSCCE Community Participation Model](https://doi.org/10.5281/zenodo.3997802) are two you can use.
