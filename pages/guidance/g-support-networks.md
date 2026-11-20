@@ -3,7 +3,7 @@ title: RDM Expert Network
 layout: guidance
 type: Guidance
 search_exclude: true
-contributors: [Mijke Jetten, Helena Schnitzer, Jeanne Wilbrandt, Flora D’Anna, Hana Marčetić, Jana Martínková, Heleri Inno, Diana Pilvar, Brane Leskošek, Federico Bianchini, Minna Ahokas, Siiri Fuchs, Marina Popleteeva]
+contributors: [Mijke Jetten, Helena Schnitzer, Jeanne Wilbrandt, Flora D'Anna, Hana Marčetić, Jana Martínková, Heleri Inno, Diana Pilvar, Brane Leskošek, Federico Bianchini, Minna Ahokas, Siiri Fuchs, Marina Popleteeva]
 page_id: g-support-networks
 
 # ---------------------------------------------------------------------------
@@ -12,7 +12,7 @@ page_id: g-support-networks
 
 # Tab 1: At a glance
 description: Practical guidance on using expert networks to build expertise, share knowledge, and improve RDM support.
-last-update: 2026-11-11  
+last_update: 2026-11-20  
 topics:                            
   - expert networks
   - knowledge exchange
@@ -41,8 +41,10 @@ related_pages:
     - g-support-rdm-guidance
     - g-support-rdm-training
   Case_Study:
-    - case-study-Data-Support-Network-Finland
-    - case-study-Nordic_Data_Stewardship_Network_(NDSN)
+    - case-study-finish-data-support-network
+    - case-study-ndsn
+    - case-study-slovenian-data-support-network
+    - case-study-dsig-netherlands
   Maturity_Indicator:
     - mm-support-network
 
