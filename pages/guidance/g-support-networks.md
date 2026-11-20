@@ -1,4 +1,4 @@
-[---
+---
 title: RDM Expert Network             
 layout: guidance
 type: Guidance
@@ -80,36 +80,36 @@ Data stewards play a central role in enabling FAIR research, yet many work as th
 You can read the sections below in any order. If you are new to networking, start with the first section.
 
 ## Plan and support your network participation
-Building a network takes time. It gets easier when your organisation sees it as part of your job.
+Building a network takes time, but it becomes much easier when participation is recognised as part of your role.
 
 ### Secure organisational support
 Explain to your manager what network participation brings: better advice for researchers, and early news about standards and tools your organisation will need to follow. Ask for dedicated time and a travel budget. Short updates to your team or management after a meeting help to keep that support in place. Also ask whether network contributions, such as leading a working group, can count in your annual review.
 
 ### Engage at different levels
 Local, national and international networks complement each other, and none replaces the others.
-- Local networks connect you to colleagues and services in your own organisation, and to the researchers you support.
-- National networks link you to national infrastructures, funders and policy discussions.
+- Local networks connect you to institutional expertise, services and the researchers you support, and help you tailor guidance to local workflows.
+- National networks link data stewardship to national infrastructures, policy makers and funders, with access to training, shared services and policy discussions.
 - International networks help you follow new standards and tools. Many are organised through ELIXIR, the European Open Science Cloud (EOSC) and the Research Data Alliance (RDA), often with groups for a specific domain.
 
 Map where you are already active and where there are gaps. You may be well connected locally but isolated nationally, or active internationally without much support from your organisation. Some funding schemes cover international but not national networking, so check what yours can support.
 
 ### Prioritise active communities
-Choose networks that meet regularly and produce something, such as working groups or shared guidelines. There you learn from others and build contacts at the same time.
+Choose networks with regular activities, working groups, shared outputs or coordination roles. They let you learn from others while sharing expertise and building professional connections.
 
 ### Start nationally if you work alone
 If you are the only data steward, or your organisation has no data steward structure, start at the national level. Ask network coordinators how members from small organisations can take part. In Czechia, for example, data stewards can join the EOSC CZ Discord channel, and the [Data Stewards Map](https://openscience.lib.cas.cz/en/uncategorized/project-data-stewards-map) helps researchers find them.
 
 ## Turn participation into impact
-Networks give you the most when you take part actively and use what you learn.
+Networks create the most value when you actively engage with the community and apply what you learn in practice.
 
 ### Share your experience
-Bring examples, tools and problems from your own work into discussions. What went wrong is as useful as what worked: it helps others avoid the same mistakes.
+Bring examples, tools and problems from your own work into discussions. Both successful approaches and difficult experiences can help others avoid repeating the same work.
 
 ### Take initiative
 Go beyond attending meetings. Join a working group, help organise a session, lead a small project or co-author a shared output. This doesn't have to take much time, but do it regularly, so people in the network know you and your work.
 
 ### Bring outcomes back to your organisation
-Use what the network produces, such as recommendations, tools or training materials, in your own organisation. Share relevant news with colleagues in a team meeting or a short update. Then tell the network what you did with it and how it worked. Making these results visible also shows your management why your participation matters.
+Use what the network produces, such as recommendations, tools or training materials, in your own organisation. Share relevant news with colleagues in a team meeting or a short update. Then tell the network what you did with it and how it worked. This two-way exchange strengthens both your organisation and the network, and shows your management why your participation matters.
 
 ## Help networks grow
 Many networks start informally. With a little structure, they last longer and become more useful.
@@ -122,4 +122,3 @@ In an informal network, suggest simple habits: an agenda for each meeting, a cha
 
 ### Use a framework
 A framework helps a network agree on what it is for and who does what. The [Community Canvas](https://community-canvas.org/) and the [CSCCE Community Participation Model](https://doi.org/10.5281/zenodo.3997802) are two you can use.
-](https://github.com/MijkeJetten/ds-handbook/blob/main/pages/guidance/g-support-networks.md)
