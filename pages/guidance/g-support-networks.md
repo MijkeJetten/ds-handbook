@@ -1,4 +1,4 @@
----
+[---
 title: RDM Expert Network             
 layout: guidance
 type: Guidance
@@ -122,3 +122,4 @@ In an informal network, suggest simple habits: an agenda for each meeting, a cha
 
 ### Use a framework
 A framework helps a network agree on what it is for and who does what. The [Community Canvas](https://community-canvas.org/) and the [CSCCE Community Participation Model](https://doi.org/10.5281/zenodo.3997802) are two you can use.
+](https://github.com/MijkeJetten/ds-handbook/blob/main/pages/guidance/g-support-networks.md)
